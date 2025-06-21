@@ -28,4 +28,46 @@ This project showcases a modern furniture UI that dynamically switches colors, b
 ---
 
 ## 📁 Project Structure
+P01_ModernChair/
+│
+├── index.html # Main HTML layout
+├── style.css # All visual styling
+└── images/
+├── b1.jpg to b6.jpg # Background gradients
+└── c1.png to c6.png # Chair images for each color
+
+---
+
+## 🚀 Getting Started
+
+1. 📥 Clone or download this repository  
+2. 💻 Open `index.html` in your browser  
+3. 🎨 Click on different color swatches to preview styles  
+4. 🛒 Click "Add to Cart" for fun (no backend logic)
+
+---
+
+## 🧠 Future Improvements
+
+- [ ] 📱 Make layout responsive for mobile/tablet
+- [ ] 🔁 Add JavaScript for better state handling
+- [ ] 💾 Integrate with backend (e.g. add to cart logic)
+- [ ] 🧩 Convert to a React/Vue component
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by **Subham Shaw**
+
+> Feel free to customize, fork, and enhance this project as your own!
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 
