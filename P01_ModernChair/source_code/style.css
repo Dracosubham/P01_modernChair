@@ -27,7 +27,7 @@ p{
 }
 .section{
     position: relative;
-    max-width: calc(100%-40%);
+    max-width:calc(100% - 40%);
     width:860px;
     margin:0 auto;
     display: flex;
@@ -315,7 +315,7 @@ h5{
     font-weight: 500;
     font-size: 14px;
     line-height: 2;
-    height: 48;
+    height: 48px;
     border-radius:4px;
     width: 210px;
     letter-spacing: 1px;
@@ -358,9 +358,9 @@ h5{
 .for-color-4:checked~.info-wrap.btn::before{
     background-color:#5a8928;
 }
-for-color-5:checked~.info-wrap.btn::before{
+.for-color-5:checked~.info-wrap.btn::before{
     background-color:#8c7f76;
 }
-for-color-6:checked~.info-wrap.btn::before{
+.for-color-6:checked~.info-wrap.btn::before{
     background-color:#5d6160;
 }
