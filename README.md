@@ -28,12 +28,19 @@ This project showcases a modern furniture UI that dynamically switches colors, b
 ---
 
 ## 📁 Project Structure
+
 P01_ModernChair/
+
 │
+
 ├── index.html # Main HTML layout
+
 ├── style.css # All visual styling
+
 └── images/
+
 ├── b1.jpg to b6.jpg # Background gradients
+
 └── c1.png to c6.png # Chair images for each color
 
 ---
